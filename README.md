@@ -5,7 +5,7 @@ Mad Libs is a phrasal template word game which consists of one player prompting 
 One player asks the other players, in turn, to contribute a word of the specified type for each blank, but without revealing the context for that word. Finally, the completed story is read aloud to everyone. The result is usually a sentence which is comical, surreal and/or takes on somewhat of a nonsensical tone!
 
 How to play?
-- Download the madlib.py file and run.
+- Download the madlibs.py file and run.
 - Input the keywords that the game asks and read aloud the horry putter story at the end! Enjoy :) Feel free to contribute to more stories!
 
 #### The code is made using string concatanation operation in python3. I have given example of 3 types of concatanation techniques within the code. If you are not familiar with nouns, verbs, adjectives and adverbs, then you might want to check below.
